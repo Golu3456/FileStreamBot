@@ -22,16 +22,16 @@
           "value": "True"
       },
       "APP_NAME": {
-          "description": "Copy-Paste the app name that you just typed above."
+          "description": "HEAT VISION "
       },
       "API_ID": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "27707164"
       },
       "API_HASH": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "3d1ab21b51395b1d8297932e7a264e96"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather"
+          "description": "7974396491:AAFV-6TZMktnhAICmqrYFdC3iApjR64ZCFQ"
       },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"
@@ -42,10 +42,10 @@
           "required": false
       },
       "DATABASE_URL": {
-          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in Support Group: https://t.me/linux_repo"
+          "description": ""
       },
       "OWNER_ID": {
-          "description": "Your Telegram User ID"
+          "description": ""
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
