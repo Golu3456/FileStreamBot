@@ -34,7 +34,7 @@
           "description": "7974396491:AAFV-6TZMktnhAICmqrYFdC3iApjR64ZCFQ"
       },
       "BIN_CHANNEL": {
-          "description": "The BIN Channel ID. Read the readme for more info about this var"
+          "description": "-1002354920055"
           
       },
       "PING_INTERVAL": {
@@ -42,10 +42,10 @@
           "required": false
       },
       "DATABASE_URL": {
-          "description": ""
+          "description": "None"
       },
       "OWNER_ID": {
-          "description": ""
+          "description": "7025034430"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
